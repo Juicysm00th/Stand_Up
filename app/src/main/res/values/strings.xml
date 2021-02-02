@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Stand Up!</string>
+    <string name="alarm_off">Detonate</string>
+    <string name="alarm_on">Deactivate</string>
+    <string name="detonActive">Detonation Activated!</string>
+    <string name="detonDeactive">Detonation Deactiveated!</string>
+</resources>
